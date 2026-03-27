@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uduvwotayinre
+# 👋 Hi, I'm Oghenekparobor
 
 **Software Developer × Process Engineer**
 Building systems where **industrial reality meets clean code**
